@@ -6,6 +6,7 @@ struct ContentView: View {
         VStack {
             Text("Hello, World!")
                 .font(.headline)
+            Text("Hello, Swift")
         }
     }
 }
